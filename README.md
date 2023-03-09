@@ -1,0 +1,1 @@
+# minstore_shopping
